@@ -1,1 +1,1 @@
-Resume made using Latex Modern Template.
+Resume made using Latex ModernCV Template.
